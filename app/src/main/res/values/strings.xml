@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WitchOneIsLarger</string>
+
+    <string name="round">round : %d</string>
+    <string name="score">scored : %d</string>
+    <string name="timer">time remaining %d second</string>
+    <string name="finish_game">game finished.</string>
+    <string name="hint_get_name_dialog">enter your name</string>
+    <string name="start_game_dialog">start</string>
+</resources>
